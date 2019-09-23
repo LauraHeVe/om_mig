@@ -1,2 +1,3 @@
-# om_mig
-Lille demo repo om brugen af GitHub
+# om mig
+**Navn:** Laura Verdier
+__ Jeg har aldrig kodet før__
