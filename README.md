@@ -4,3 +4,5 @@
 _"Jeg har aldrig kodet før"_
 
 _"Jeg vil gerne blive bedre til at arbejde med programmeringsprogrammer"_
+
+**nånå**
