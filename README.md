@@ -1,3 +1,3 @@
 # om mig
 **Navn:** Laura Verdier
-__ Jeg har aldrig kodet før__
+_Jeg har aldrig kodet før_
